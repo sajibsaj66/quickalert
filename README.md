@@ -1,7 +1,7 @@
 # quick_alert_example
 
 A new Flutter project.
-https://github.com/sajibsaj66/quickalert/assets/15973463/074be62a-4e5d-4ff8-91e0-123e81b6a3ee  
+
 
 
 ## Getting Started
@@ -16,3 +16,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+https://github.com/sajibsaj66/quickalert/assets/15973463/074be62a-4e5d-4ff8-91e0-123e81b6a3ee  
